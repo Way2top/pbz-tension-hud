@@ -1,0 +1,10 @@
+# 构建产物
+src/PBZTensionHUD.exe
+
+# Release 附件（zip 作为 GitHub Release asset 上传，不入仓库）
+release/*.zip
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
